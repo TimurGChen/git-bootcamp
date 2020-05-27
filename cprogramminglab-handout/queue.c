@@ -9,6 +9,8 @@
  * operations.
  *
  * It uses a singly-linked list to represent the set of queue elements
+ *
+ * Wow~ËThis is my exclusive moment of awesomeness!
  */
 
 #include <stdlib.h>
